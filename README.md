@@ -15,6 +15,12 @@ For more information and a complete code walk-through, please check out my blog 
 - **Evaluation Metrics:** Generates a **confusion matrix, classification report, and feature importance scores** for model assessment.
 - **Visualization:** Decision trees are plotted for both R and Python, showing key decision points.
 
+## Source code
+
+- decision-trees-customer-intention.R is the main R script
+- decision-trees-customer-intention-ver3.py is the equivalent Python program
+- I've also included a few versions of the decision tree graphic as described in the blog post
+
 ## Dataset
 This project is based on the **Online Shoppers Purchasing Intention Dataset**, which contains **12,330 sessions** collected from an e-commerce website. The dataset includes **17 behavioral features** such as time spent on different types of pages, bounce rates, and traffic source.
 
