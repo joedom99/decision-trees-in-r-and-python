@@ -6,7 +6,7 @@ This repository contains R and Python implementations of a **decision tree model
 
 Both implementations train a **classification tree** using key behavioral metrics such as **PageValues, BounceRates, and ExitRates** to distinguish between purchasers and non-purchasers. While the **R version** works efficiently with minimal tuning, the **Python version** requires additional adjustments for feature encoding, pruning, and class balancing.
 
-For more information and a complete code walk-through, please check out my blog at https://blog.marketingdatascience.ai.
+For more information and a complete code walk-through, please check out the complete blog post at [https://blog.marketingdatascience.ai.](https://blog.marketingdatascience.ai/smarter-marketing-with-decision-trees-a-practical-introduction-using-r-and-python-11077a964f34)
 
 ## Features
 - **R Implementation:** Uses the `rpart` package to build and visualize a decision tree with simple tuning.
